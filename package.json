@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": { "node": "16.x" },
   "dependencies": {
     "google-recaptcha": "^1.1.0",
     "socket.io": "^4.4.0"
